@@ -212,3 +212,9 @@ table {
 .email {
     height: 20px;
 }
+
+.cr {
+    color: blanchedalmond;
+    position: absolute;
+    right: 7px;
+}
