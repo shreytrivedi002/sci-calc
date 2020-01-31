@@ -44,7 +44,7 @@ calc {
     font-family: arial, helvetica, sans-serif;
     font-size: 16px;
     font-weight: bold;
-    color: #185290;
+    color: #0ee480;
     background-color: #C8D8E8;
 }
 
@@ -186,6 +186,7 @@ table {
     margin-left: 10px;
     padding-left: 10px;
     background-color: transparent;
+    color: blanchedalmond;
 }
 
 .shrey {
@@ -202,11 +203,12 @@ table {
 
 .entry {
     /* background-color: black; */
-    background-color: #111111a6;
+    background-color: #09daffa6;
     margin-left: 040%;
     margin-right: 40%;
     margin-top: 0%;
     position: relative;
+    border-radius: 10px;
 }
 
 .email {
